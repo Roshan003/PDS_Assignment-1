@@ -20,5 +20,4 @@ Assignment 1
 Data link:  https://app.box.com/s/ji910ez3ycw137rw07xnhielxey7ww41 
 
 Submission:
-Create a public GitHub repo and upload the folders for both the questions on the GitHub and submit the link to Canvas. 
-![image](https://github.com/Roshan003/PDS_Assignment-1/assets/60837794/40e6bc13-9f8f-49a7-8ba8-a83610d7ceb7)
+Create a public GitHub repo and upload the folders for both the questions on the GitHub and submit the link to Canvas.
